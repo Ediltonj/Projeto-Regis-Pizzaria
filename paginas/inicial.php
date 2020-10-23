@@ -553,7 +553,7 @@
               <option>Suco-Abacaxi 1L</option>
               <option>Suco-Laranja 1L</option>
               <option>Suco-Acerola 1L</option>
-              <option>Suco-Goiaba 1L</option>
+              <option>Suco-Goiaba 1L.</option>
 
             </select>
           </div>
