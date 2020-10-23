@@ -12,6 +12,9 @@
   <!-- icomoom -->
   <link rel="stylesheet" href="public/css/icomoom.css">
 
+  <!-- Jssor Slide-->
+  <script src="public/js/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
+
   <!-- Meu css -->
   <link rel="stylesheet" href="public/css/MeuEstilo.css">
 
@@ -57,7 +60,7 @@
         </li>
 
         <li class="nav-item active">
-          <a class="nav-link" href="index.php?pg=servicos">Serviços <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index.php?pg=pedidos">Meus Pedidos <span class="sr-only">(current)</span></a>
         </li>
 
         <li class="nav-item active">
@@ -80,4 +83,4 @@
   </nav>
 
 
-<!-- Fim da Barra de Menu -->
+  <!-- Fim da Barra de Menu -->
