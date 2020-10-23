@@ -71,16 +71,16 @@
       </div>
       <div class="form-group col-md-3">
         <label for="inputPassword4"></label>
-        <input type="password" class="form-control" id="inputPassword4" placeholder="Seu Telefone">
+        <input type="text" class="form-control" id="inputEmail4" placeholder="Seu Telefone">
       </div>
       <div class="form-group col-md-5">
         <label for="inputPassword4"></label>
-        <input type="password" class="form-control" id="inputPassword4" placeholder="Seu e-mail">
+        <input type="text" class="form-control" id="inputEmail4" placeholder="Seu e-mail">
       </div>
 
       <div class="form-group col-md-4">
         <label for="inputAddress"></label>
-        <input type="text" class="form-control" id="inputAddress" placeholder="Data da Reserva (dd/mm/aaaa)">
+        <input type="text" class="form-control" id="inputEmail4" placeholder="Data da Reserva (dd/mm/aaaa)">
       </div>
 
       <div class="form-group col-md-4">
