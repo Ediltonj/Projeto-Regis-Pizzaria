@@ -1,7 +1,7 @@
 <!-- Banner imagem fixa servicos-->
 
 <div class="container-fluid text-center marginsBanner">
-  <img src="public/img/servicos.jpg" alt="" class="img-fluid w-100">
+  <img src="public/img/meuspedidos.jpg" alt="" class="img-fluid w-100">
 </div>
 
 

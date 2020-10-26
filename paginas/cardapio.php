@@ -22,8 +22,20 @@
       <div class="card bg-warning" style="width: 18rem;">
         <img class="card-img-top" src="public/img/10.jpg" alt="Imagem de capa do card">
         <div class="card-body">
-          <h5 class="card-title">Título do card</h5>
-          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+          <h5 class="card-title">Italiana</h5>
+          <p class="card-text"> INGREDIENTES-900g de farinha de trigo (Aproximadamente)
+
+            -1 colher(sopa) de açúcar
+
+            -1/2 colher(sopa) de sal
+
+            -500ml de água morna
+
+            -40ml de óleo
+
+            -1 ovo
+
+            -30g de fermento biológico seco instantâneo</p>
 
           <!-- Formulario Bebidas -->
           <div class="form-group col-5md-6">
@@ -54,8 +66,20 @@
       <div class="card bg-warning" style="width: 18rem;">
         <img class="card-img-top" src="public/img/11.jpg" alt="Imagem de capa do card">
         <div class="card-body">
-          <h5 class="card-title">Título do card</h5>
-          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+          <h5 class="card-title">Mussarela</h5>
+          <p class="card-text"> INGREDIENTES-900g de farinha de trigo (Aproximadamente)
+
+-1 colher(sopa) de açúcar
+
+-1/2 colher(sopa) de sal
+
+-500ml de água morna
+
+-40ml de óleo
+
+-1 ovo
+
+-30g de fermento biológico seco instantâneo</p>
 
           <!-- Formulario Bebidas -->
           <div class="form-group col-5md-6">
@@ -86,8 +110,20 @@
       <div class="card bg-warning" style="width: 18rem;">
         <img class="card-img-top" src="public/img/12.jpg" alt="Imagem de capa do card">
         <div class="card-body">
-          <h5 class="card-title">Título do card</h5>
-          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+          <h5 class="card-title">Quatro Queijos</h5>
+          <p class="card-text"> INGREDIENTES-900g de farinha de trigo (Aproximadamente)
+
+-1 colher(sopa) de açúcar
+
+-1/2 colher(sopa) de sal
+
+-500ml de água morna
+
+-40ml de óleo
+
+-1 ovo
+
+-30g de fermento biológico seco instantâneo</p>
 
           <!-- Formulario Bebidas -->
           <div class="form-group col-5md-6">
@@ -118,8 +154,20 @@
       <div class="card bg-warning" style="width: 18rem;">
         <img class="card-img-top" src="public/img/13.jpg" alt="Imagem de capa do card">
         <div class="card-body">
-          <h5 class="card-title">Título do card</h5>
-          <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+          <h5 class="card-title">Antonieta</h5>
+          <p class="card-text"> INGREDIENTES-900g de farinha de trigo (Aproximadamente)
+
+-1 colher(sopa) de açúcar
+
+-1/2 colher(sopa) de sal
+
+-500ml de água morna
+
+-40ml de óleo
+
+-1 ovo
+
+-30g de fermento biológico seco instantâneo</p>
 
           <!-- Formulario Bebidas -->
           <div class="form-group col-5md-6">
@@ -150,8 +198,20 @@
         <div class="card bg-warning" style="width: 18rem;">
           <img class="card-img-top" src="public/img/14.jpg" alt="Imagem de capa do card">
           <div class="card-body">
-            <h5 class="card-title">Título do card</h5>
-            <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+            <h5 class="card-title">Julieta</h5>
+            <p class="card-text"> INGREDIENTES-900g de farinha de trigo (Aproximadamente)
+
+-1 colher(sopa) de açúcar
+
+-1/2 colher(sopa) de sal
+
+-500ml de água morna
+
+-40ml de óleo
+
+-1 ovo
+
+-30g de fermento biológico seco instantâneo</p>
 
             <!-- Formulario Bebidas -->
             <div class="form-group col-5md-6">
@@ -183,8 +243,20 @@
         <div class="card bg-warning" style="width: 18rem;">
           <img class="card-img-top" src="public/img/10.jpg" alt="Imagem de capa do card">
           <div class="card-body">
-            <h5 class="card-title">Título do card</h5>
-            <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+            <h5 class="card-title">Tomate seco e Queijo</h5>
+            <p class="card-text"> INGREDIENTES-900g de farinha de trigo (Aproximadamente)
+
+-1 colher(sopa) de açúcar
+
+-1/2 colher(sopa) de sal
+
+-500ml de água morna
+
+-40ml de óleo
+
+-1 ovo
+
+-30g de fermento biológico seco instantâneo</p>
 
             <!-- Formulario Bebidas -->
             <div class="form-group col-5md-6">
@@ -215,8 +287,20 @@
         <div class="card bg-warning" style="width: 18rem;">
           <img class="card-img-top" src="public/img/11.jpg" alt="Imagem de capa do card">
           <div class="card-body">
-            <h5 class="card-title">Título do card</h5>
-            <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+            <h5 class="card-title">Mussarela e Bacon</h5>
+            <p class="card-text"> INGREDIENTES-900g de farinha de trigo (Aproximadamente)
+
+-1 colher(sopa) de açúcar
+
+-1/2 colher(sopa) de sal
+
+-500ml de água morna
+
+-40ml de óleo
+
+-1 ovo
+
+-30g de fermento biológico seco instantâneo</p>
 
             <!-- Formulario Bebidas -->
             <div class="form-group col-5md-6">
@@ -247,8 +331,20 @@
         <div class="card bg-warning" style="width: 18rem;">
           <img class="card-img-top" src="public/img/12.jpg" alt="Imagem de capa do card">
           <div class="card-body">
-            <h5 class="card-title">Título do card</h5>
-            <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+            <h5 class="card-title">Franco</h5>
+            <p class="card-text"> INGREDIENTES-900g de farinha de trigo (Aproximadamente)
+
+-1 colher(sopa) de açúcar
+
+-1/2 colher(sopa) de sal
+
+-500ml de água morna
+
+-40ml de óleo
+
+-1 ovo
+
+-30g de fermento biológico seco instantâneo</p>
 
             <!-- Formulario Bebidas -->
             <div class="form-group col-5md-6">
